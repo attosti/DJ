@@ -473,6 +473,30 @@ footer p:last-child {
 	margin-bottom: 30px;
 }
 
+@media screen and (max-width: 599px) {
+
+.nav .logo {
+	display: block;
+	width: 450px;
+	height: 60px;
+	position: absolute; top: 50%; margin: 0 auto;
+	margin-top: -30px;
+	background: url(img/logoadrien.png) no-repeat 0 0;
+	background-size: 100%;
+	overflow: hidden;
+	text-indent: -999px;
+}
+
+.nav ul {
+	position: relative;
+	float: right;
+	height: 100%;
+	margin-right: 30px;
+	display: none;
+}
+
+}
+
 /*
 
 
