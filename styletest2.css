@@ -108,8 +108,10 @@ body {
 	display: block;
 	width: 450px;
 	height: 60px;
-	position: absolute; top: 50%; left: -10px;
+	position: absolute; top: 50%;
 	margin-top: -30px;
+	left: 50%;
+	margin-left: -225px;
 	background: url(img/logoadrien.png) no-repeat 0 0;
 	background-size: 100%;
 	overflow: hidden;
@@ -121,6 +123,7 @@ body {
 	float: right;
 	height: 100%;
 	margin-right: 30px;
+	display: none;
 }
 
 .nav ul li {
