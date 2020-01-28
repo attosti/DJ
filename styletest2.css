@@ -496,11 +496,12 @@ footer p:last-child {
 }
 
 .dj-img	{
-	height: 450px;
+	height: 700px;
 	background-image: url(img/IMG_5778_2.JPG);
-	background-position: 200px -30px;
+	background-position: center;
 	background-attachment: fixed;
-	background-repeat: ;
+	background-repeat: no-repeat;
+	background-size: 100%;
 	width: 100%;
 }
 
