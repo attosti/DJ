@@ -437,12 +437,12 @@ footer p:last-child {
 }
 
 .dj-img	{
-	height: 450px;
+	height: 650px;
 	background-image: url(img/84921811_168965534406631_4095499192183554048_n.JPG);
-	background-position: 200px -30px;
+	background-position: 0 -50px;
 	background-attachment: fixed;
-	background-repeat: ;
-	width: 100%;
+	background-repeat: no-repeat;
+	width: auto;
 }
 
 .dj-info {
